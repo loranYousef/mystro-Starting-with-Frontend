@@ -1,0 +1,32 @@
+.card {
+height: 407px;
+width: 264px;
+text-align: center;
+border: solid black 2px;
+border-radius: 7px;
+
+
+}
+.card img{
+    height: 202px;
+    width: 202px;
+}
+.card a{
+   
+    padding: 10px 100px;
+    border-radius: 6px;
+    background-color: #e8e8e8;
+    text-decoration: none;
+    color: black;   
+
+   
+
+
+}
+.card:hover{
+    border: solid #119744 1px;
+
+}
+.card:hover a{
+    background-color: #119744;
+}
